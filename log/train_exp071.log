@@ -1,0 +1,399 @@
+(70941, 15)
+==========================================================================================
+Fold 0 Training
+==========================================================================================
+(63846, 15)
+houspa     746
+mallar3    531
+norcar     512
+comrav     450
+spotow     450
+          ...
+akikik       2
+shtsan       2
+crehon       2
+hawpet1      2
+maupar       1
+Name: primary_label, Length: 506, dtype: int64
+(7095, 15)
+houspa     83
+mallar3    59
+norcar     57
+houwre     50
+gbwwre1    50
+           ..
+buffle      1
+aniani      1
+barpet      1
+kauama      1
+palila      1
+Name: primary_label, Length: 495, dtype: int64
+Epoch 0 - Train loss: 0.0022, Train cmAP1: 0.0285, Train cmAP5: 0.0957, Train mAP: 0.0037, Valid loss: 0.0024, Valid cmAP1: 0.2319, Valid cmAP5: 0.4618, Valid mAP: 0.0613
+Epoch 0 - Save Best Score: 0.2319 Model
+
+Epoch 1 - Train loss: 0.0016, Train cmAP1: 0.0662, Train cmAP5: 0.1385, Train mAP: 0.0436, Valid loss: 0.0020, Valid cmAP1: 0.4279, Valid cmAP5: 0.6228, Valid mAP: 0.2924
+Epoch 1 - Save Best Score: 0.4279 Model
+
+Epoch 2 - Train loss: 0.0014, Train cmAP1: 0.1063, Train cmAP5: 0.1817, Train mAP: 0.0868, Valid loss: 0.0017, Valid cmAP1: 0.5576, Valid cmAP5: 0.7176, Valid mAP: 0.4381
+Epoch 2 - Save Best Score: 0.5576 Model
+
+Epoch 3 - Train loss: 0.0013, Train cmAP1: 0.1413, Train cmAP5: 0.2172, Train mAP: 0.1176, Valid loss: 0.0016, Valid cmAP1: 0.6371, Valid cmAP5: 0.7705, Valid mAP: 0.5487
+Epoch 3 - Save Best Score: 0.6371 Model
+
+Epoch 4 - Train loss: 0.0012, Train cmAP1: 0.1630, Train cmAP5: 0.2394, Train mAP: 0.1387, Valid loss: 0.0015, Valid cmAP1: 0.6887, Valid cmAP5: 0.8048, Valid mAP: 0.6179
+Epoch 4 - Save Best Score: 0.6887 Model
+
+Epoch 5 - Train loss: 0.0012, Train cmAP1: 0.1852, Train cmAP5: 0.2608, Train mAP: 0.1568, Valid loss: 0.0014, Valid cmAP1: 0.7203, Valid cmAP5: 0.8255, Valid mAP: 0.6599
+Epoch 5 - Save Best Score: 0.7203 Model
+
+Epoch 6 - Train loss: 0.0011, Train cmAP1: 0.1972, Train cmAP5: 0.2739, Train mAP: 0.1672, Valid loss: 0.0014, Valid cmAP1: 0.7402, Valid cmAP5: 0.8382, Valid mAP: 0.6856
+Epoch 6 - Save Best Score: 0.7402 Model
+
+Epoch 7 - Train loss: 0.0011, Train cmAP1: 0.2076, Train cmAP5: 0.2838, Train mAP: 0.1746, Valid loss: 0.0014, Valid cmAP1: 0.7514, Valid cmAP5: 0.8457, Valid mAP: 0.7005
+Epoch 7 - Save Best Score: 0.7514 Model
+
+Epoch 8 - Train loss: 0.0010, Train cmAP1: 0.2146, Train cmAP5: 0.2891, Train mAP: 0.1792, Valid loss: 0.0013, Valid cmAP1: 0.7598, Valid cmAP5: 0.8504, Valid mAP: 0.7130
+Epoch 8 - Save Best Score: 0.7598 Model
+
+Epoch 9 - Train loss: 0.0010, Train cmAP1: 0.2167, Train cmAP5: 0.2927, Train mAP: 0.1838, Valid loss: 0.0013, Valid cmAP1: 0.7612, Valid cmAP5: 0.8514, Valid mAP: 0.7152
+Epoch 9 - Save Best Score: 0.7612 Model
+
+Epoch 10 - Train loss: 0.0012, Train cmAP1: 0.1796, Train cmAP5: 0.2565, Train mAP: 0.1505, Valid loss: 0.0015, Valid cmAP1: 0.7224, Valid cmAP5: 0.8274, Valid mAP: 0.6494
+Valid loss didn't improve last 1 epochs.
+
+Epoch 11 - Train loss: 0.0012, Train cmAP1: 0.1884, Train cmAP5: 0.2652, Train mAP: 0.1589, Valid loss: 0.0014, Valid cmAP1: 0.7406, Valid cmAP5: 0.8366, Valid mAP: 0.6694
+Valid loss didn't improve last 2 epochs.
+
+(70941, 15)
+==========================================================================================
+Fold 0 Training
+==========================================================================================
+(63846, 15)
+houspa     746
+mallar3    531
+norcar     512
+comrav     450
+spotow     450
+          ...
+akikik       2
+shtsan       2
+crehon       2
+hawpet1      2
+maupar       1
+Name: primary_label, Length: 506, dtype: int64
+(7095, 15)
+houspa     83
+mallar3    59
+norcar     57
+houwre     50
+gbwwre1    50
+           ..
+buffle      1
+aniani      1
+barpet      1
+kauama      1
+palila      1
+Name: primary_label, Length: 495, dtype: int64
+Epoch 0 - Train loss: 0.0041, Train cmAP1: 0.0288, Train cmAP5: 0.0960, Train mAP: 0.0039, Valid loss: 0.0031, Valid cmAP1: 0.2520, Valid cmAP5: 0.4784, Valid mAP: 0.0906
+Epoch 0 - Save Best Score: 0.2520 Model
+
+Epoch 1 - Train loss: 0.0023, Train cmAP1: 0.0728, Train cmAP5: 0.1460, Train mAP: 0.0607, Valid loss: 0.0025, Valid cmAP1: 0.5051, Valid cmAP5: 0.6815, Valid mAP: 0.3920
+Epoch 1 - Save Best Score: 0.5051 Model
+
+Epoch 2 - Train loss: 0.0020, Train cmAP1: 0.1249, Train cmAP5: 0.2015, Train mAP: 0.1188, Valid loss: 0.0022, Valid cmAP1: 0.6158, Valid cmAP5: 0.7587, Valid mAP: 0.5508
+Epoch 2 - Save Best Score: 0.6158 Model
+
+Epoch 3 - Train loss: 0.0019, Train cmAP1: 0.1660, Train cmAP5: 0.2433, Train mAP: 0.1558, Valid loss: 0.0020, Valid cmAP1: 0.6963, Valid cmAP5: 0.8108, Valid mAP: 0.6519
+Epoch 3 - Save Best Score: 0.6963 Model
+
+Epoch 4 - Train loss: 0.0018, Train cmAP1: 0.1931, Train cmAP5: 0.2701, Train mAP: 0.1811, Valid loss: 0.0019, Valid cmAP1: 0.7450, Valid cmAP5: 0.8421, Valid mAP: 0.7059
+Epoch 4 - Save Best Score: 0.7450 Model
+
+Epoch 5 - Train loss: 0.0017, Train cmAP1: 0.2195, Train cmAP5: 0.2950, Train mAP: 0.2028, Valid loss: 0.0017, Valid cmAP1: 0.7753, Valid cmAP5: 0.8614, Valid mAP: 0.7502
+Epoch 5 - Save Best Score: 0.7753 Model
+
+Epoch 6 - Train loss: 0.0016, Train cmAP1: 0.2360, Train cmAP5: 0.3125, Train mAP: 0.2183, Valid loss: 0.0017, Valid cmAP1: 0.7900, Valid cmAP5: 0.8715, Valid mAP: 0.7720
+Epoch 6 - Save Best Score: 0.7900 Model
+
+Epoch 7 - Train loss: 0.0015, Train cmAP1: 0.2487, Train cmAP5: 0.3242, Train mAP: 0.2258, Valid loss: 0.0016, Valid cmAP1: 0.8035, Valid cmAP5: 0.8794, Valid mAP: 0.7864
+Epoch 7 - Save Best Score: 0.8035 Model
+
+Epoch 8 - Train loss: 0.0015, Train cmAP1: 0.2557, Train cmAP5: 0.3304, Train mAP: 0.2327, Valid loss: 0.0016, Valid cmAP1: 0.8096, Valid cmAP5: 0.8833, Valid mAP: 0.7963
+Epoch 8 - Save Best Score: 0.8096 Model
+
+Epoch 9 - Train loss: 0.0015, Train cmAP1: 0.2625, Train cmAP5: 0.3373, Train mAP: 0.2393, Valid loss: 0.0016, Valid cmAP1: 0.8112, Valid cmAP5: 0.8843, Valid mAP: 0.7976
+Epoch 9 - Save Best Score: 0.8112 Model
+
+Epoch 10 - Train loss: 0.0017, Train cmAP1: 0.2092, Train cmAP5: 0.2864, Train mAP: 0.1913, Valid loss: 0.0018, Valid cmAP1: 0.7723, Valid cmAP5: 0.8589, Valid mAP: 0.7255
+Valid loss didn't improve last 1 epochs.
+
+Epoch 11 - Train loss: 0.0017, Train cmAP1: 0.2222, Train cmAP5: 0.2987, Train mAP: 0.2020, Valid loss: 0.0018, Valid cmAP1: 0.7902, Valid cmAP5: 0.8697, Valid mAP: 0.7522
+Valid loss didn't improve last 2 epochs.
+
+Epoch 12 - Train loss: 0.0016, Train cmAP1: 0.2378, Train cmAP5: 0.3140, Train mAP: 0.2139, Valid loss: 0.0017, Valid cmAP1: 0.8058, Valid cmAP5: 0.8801, Valid mAP: 0.7682
+Valid loss didn't improve last 3 epochs.
+
+Epoch 13 - Train loss: 0.0016, Train cmAP1: 0.2460, Train cmAP5: 0.3214, Train mAP: 0.2234, Valid loss: 0.0017, Valid cmAP1: 0.8197, Valid cmAP5: 0.8882, Valid mAP: 0.7932
+Epoch 13 - Save Best Score: 0.8197 Model
+
+Epoch 14 - Train loss: 0.0015, Train cmAP1: 0.2594, Train cmAP5: 0.3345, Train mAP: 0.2344, Valid loss: 0.0016, Valid cmAP1: 0.8271, Valid cmAP5: 0.8932, Valid mAP: 0.8047
+Epoch 14 - Save Best Score: 0.8271 Model
+
+Epoch 15 - Train loss: 0.0015, Train cmAP1: 0.2699, Train cmAP5: 0.3438, Train mAP: 0.2431, Valid loss: 0.0016, Valid cmAP1: 0.8409, Valid cmAP5: 0.9010, Valid mAP: 0.8172
+Epoch 15 - Save Best Score: 0.8409 Model
+
+Epoch 16 - Train loss: 0.0014, Train cmAP1: 0.2784, Train cmAP5: 0.3521, Train mAP: 0.2499, Valid loss: 0.0015, Valid cmAP1: 0.8454, Valid cmAP5: 0.9043, Valid mAP: 0.8253
+Epoch 16 - Save Best Score: 0.8454 Model
+
+Epoch 17 - Train loss: 0.0014, Train cmAP1: 0.2838, Train cmAP5: 0.3567, Train mAP: 0.2535, Valid loss: 0.0015, Valid cmAP1: 0.8514, Valid cmAP5: 0.9080, Valid mAP: 0.8340
+Epoch 17 - Save Best Score: 0.8514 Model
+
+Epoch 18 - Train loss: 0.0014, Train cmAP1: 0.2930, Train cmAP5: 0.3658, Train mAP: 0.2634, Valid loss: 0.0015, Valid cmAP1: 0.8543, Valid cmAP5: 0.9097, Valid mAP: 0.8371
+Epoch 18 - Save Best Score: 0.8543 Model
+
+Epoch 19 - Train loss: 0.0014, Train cmAP1: 0.2885, Train cmAP5: 0.3617, Train mAP: 0.2608, Valid loss: 0.0015, Valid cmAP1: 0.8554, Valid cmAP5: 0.9103, Valid mAP: 0.8381
+Epoch 19 - Save Best Score: 0.8554 Model
+
+Epoch 20 - Train loss: 0.0016, Train cmAP1: 0.2551, Train cmAP5: 0.3307, Train mAP: 0.2286, Valid loss: 0.0017, Valid cmAP1: 0.8242, Valid cmAP5: 0.8909, Valid mAP: 0.7958
+Valid loss didn't improve last 1 epochs.
+
+Epoch 21 - Train loss: 0.0015, Train cmAP1: 0.2551, Train cmAP5: 0.3309, Train mAP: 0.2311, Valid loss: 0.0016, Valid cmAP1: 0.8365, Valid cmAP5: 0.8975, Valid mAP: 0.8036
+Valid loss didn't improve last 2 epochs.
+
+Epoch 22 - Train loss: 0.0015, Train cmAP1: 0.2681, Train cmAP5: 0.3420, Train mAP: 0.2387, Valid loss: 0.0016, Valid cmAP1: 0.8416, Valid cmAP5: 0.9003, Valid mAP: 0.8126
+Valid loss didn't improve last 3 epochs.
+
+Epoch 23 - Train loss: 0.0015, Train cmAP1: 0.2652, Train cmAP5: 0.3404, Train mAP: 0.2394, Valid loss: 0.0015, Valid cmAP1: 0.8456, Valid cmAP5: 0.9046, Valid mAP: 0.8258
+Valid loss didn't improve last 4 epochs.
+
+Epoch 24 - Train loss: 0.0014, Train cmAP1: 0.2859, Train cmAP5: 0.3589, Train mAP: 0.2538, Valid loss: 0.0015, Valid cmAP1: 0.8501, Valid cmAP5: 0.9071, Valid mAP: 0.8270
+Valid loss didn't improve last 5 epochs.
+
+Epoch 25 - Train loss: 0.0014, Train cmAP1: 0.2869, Train cmAP5: 0.3611, Train mAP: 0.2573, Valid loss: 0.0015, Valid cmAP1: 0.8608, Valid cmAP5: 0.9132, Valid mAP: 0.8396
+Epoch 25 - Save Best Score: 0.8608 Model
+
+Epoch 26 - Train loss: 0.0014, Train cmAP1: 0.2951, Train cmAP5: 0.3687, Train mAP: 0.2657, Valid loss: 0.0014, Valid cmAP1: 0.8684, Valid cmAP5: 0.9171, Valid mAP: 0.8483
+Epoch 26 - Save Best Score: 0.8684 Model
+
+Epoch 27 - Train loss: 0.0014, Train cmAP1: 0.2932, Train cmAP5: 0.3679, Train mAP: 0.2675, Valid loss: 0.0014, Valid cmAP1: 0.8709, Valid cmAP5: 0.9185, Valid mAP: 0.8507
+Epoch 27 - Save Best Score: 0.8709 Model
+
+Epoch 28 - Train loss: 0.0013, Train cmAP1: 0.3074, Train cmAP5: 0.3782, Train mAP: 0.2729, Valid loss: 0.0014, Valid cmAP1: 0.8724, Valid cmAP5: 0.9194, Valid mAP: 0.8522
+Epoch 28 - Save Best Score: 0.8724 Model
+
+Epoch 29 - Train loss: 0.0013, Train cmAP1: 0.3086, Train cmAP5: 0.3802, Train mAP: 0.2740, Valid loss: 0.0014, Valid cmAP1: 0.8728, Valid cmAP5: 0.9196, Valid mAP: 0.8530
+Epoch 29 - Save Best Score: 0.8728 Model
+
+Epoch 30 - Train loss: 0.0015, Train cmAP1: 0.2752, Train cmAP5: 0.3492, Train mAP: 0.2476, Valid loss: 0.0016, Valid cmAP1: 0.8500, Valid cmAP5: 0.9054, Valid mAP: 0.8183
+Valid loss didn't improve last 1 epochs.
+
+Epoch 31 - Train loss: 0.0015, Train cmAP1: 0.2785, Train cmAP5: 0.3517, Train mAP: 0.2480, Valid loss: 0.0016, Valid cmAP1: 0.8518, Valid cmAP5: 0.9069, Valid mAP: 0.8251
+Valid loss didn't improve last 2 epochs.
+
+Epoch 32 - Train loss: 0.0014, Train cmAP1: 0.2841, Train cmAP5: 0.3575, Train mAP: 0.2555, Valid loss: 0.0015, Valid cmAP1: 0.8531, Valid cmAP5: 0.9090, Valid mAP: 0.8252
+Valid loss didn't improve last 3 epochs.
+
+Epoch 33 - Train loss: 0.0014, Train cmAP1: 0.2889, Train cmAP5: 0.3622, Train mAP: 0.2587, Valid loss: 0.0015, Valid cmAP1: 0.8593, Valid cmAP5: 0.9120, Valid mAP: 0.8355
+Valid loss didn't improve last 4 epochs.
+
+Epoch 34 - Train loss: 0.0014, Train cmAP1: 0.2922, Train cmAP5: 0.3659, Train mAP: 0.2624, Valid loss: 0.0015, Valid cmAP1: 0.8682, Valid cmAP5: 0.9176, Valid mAP: 0.8479
+Valid loss didn't improve last 5 epochs.
+
+Epoch 35 - Train loss: 0.0014, Train cmAP1: 0.2990, Train cmAP5: 0.3719, Train mAP: 0.2665, Valid loss: 0.0014, Valid cmAP1: 0.8710, Valid cmAP5: 0.9191, Valid mAP: 0.8496
+Valid loss didn't improve last 6 epochs.
+
+Epoch 36 - Train loss: 0.0013, Train cmAP1: 0.3042, Train cmAP5: 0.3766, Train mAP: 0.2727, Valid loss: 0.0014, Valid cmAP1: 0.8740, Valid cmAP5: 0.9213, Valid mAP: 0.8551
+Epoch 36 - Save Best Score: 0.8740 Model
+
+Epoch 37 - Train loss: 0.0013, Train cmAP1: 0.3120, Train cmAP5: 0.3826, Train mAP: 0.2767, Valid loss: 0.0014, Valid cmAP1: 0.8778, Valid cmAP5: 0.9232, Valid mAP: 0.8573
+Epoch 37 - Save Best Score: 0.8778 Model
+
+Epoch 38 - Train loss: 0.0013, Train cmAP1: 0.3098, Train cmAP5: 0.3823, Train mAP: 0.2789, Valid loss: 0.0014, Valid cmAP1: 0.8793, Valid cmAP5: 0.9239, Valid mAP: 0.8599
+Epoch 38 - Save Best Score: 0.8793 Model
+
+Epoch 39 - Train loss: 0.0013, Train cmAP1: 0.3185, Train cmAP5: 0.3901, Train mAP: 0.2816, Valid loss: 0.0014, Valid cmAP1: 0.8788, Valid cmAP5: 0.9239, Valid mAP: 0.8607
+Valid loss didn't improve last 1 epochs.
+
+Epoch 40 - Train loss: 0.0014, Train cmAP1: 0.2870, Train cmAP5: 0.3600, Train mAP: 0.2562, Valid loss: 0.0015, Valid cmAP1: 0.8595, Valid cmAP5: 0.9122, Valid mAP: 0.8342
+Valid loss didn't improve last 2 epochs.
+
+Epoch 41 - Train loss: 0.0014, Train cmAP1: 0.2888, Train cmAP5: 0.3624, Train mAP: 0.2591, Valid loss: 0.0015, Valid cmAP1: 0.8629, Valid cmAP5: 0.9141, Valid mAP: 0.8360
+Valid loss didn't improve last 3 epochs.
+
+Epoch 42 - Train loss: 0.0014, Train cmAP1: 0.2938, Train cmAP5: 0.3671, Train mAP: 0.2633, Valid loss: 0.0015, Valid cmAP1: 0.8645, Valid cmAP5: 0.9154, Valid mAP: 0.8391
+Valid loss didn't improve last 4 epochs.
+
+Epoch 43 - Train loss: 0.0014, Train cmAP1: 0.2981, Train cmAP5: 0.3712, Train mAP: 0.2663, Valid loss: 0.0015, Valid cmAP1: 0.8699, Valid cmAP5: 0.9182, Valid mAP: 0.8464
+Valid loss didn't improve last 5 epochs.
+
+Epoch 44 - Train loss: 0.0014, Train cmAP1: 0.3035, Train cmAP5: 0.3760, Train mAP: 0.2726, Valid loss: 0.0014, Valid cmAP1: 0.8757, Valid cmAP5: 0.9217, Valid mAP: 0.8524
+Valid loss didn't improve last 6 epochs.
+
+Epoch 45 - Train loss: 0.0013, Train cmAP1: 0.3095, Train cmAP5: 0.3806, Train mAP: 0.2724, Valid loss: 0.0014, Valid cmAP1: 0.8764, Valid cmAP5: 0.9224, Valid mAP: 0.8556
+Valid loss didn't improve last 7 epochs.
+
+Epoch 46 - Train loss: 0.0013, Train cmAP1: 0.3152, Train cmAP5: 0.3870, Train mAP: 0.2823, Valid loss: 0.0014, Valid cmAP1: 0.8791, Valid cmAP5: 0.9240, Valid mAP: 0.8603
+Valid loss didn't improve last 8 epochs.
+
+Epoch 47 - Train loss: 0.0013, Train cmAP1: 0.3172, Train cmAP5: 0.3880, Train mAP: 0.2829, Valid loss: 0.0014, Valid cmAP1: 0.8817, Valid cmAP5: 0.9259, Valid mAP: 0.8632
+Epoch 47 - Save Best Score: 0.8817 Model
+
+Epoch 48 - Train loss: 0.0013, Train cmAP1: 0.3154, Train cmAP5: 0.3883, Train mAP: 0.2848, Valid loss: 0.0014, Valid cmAP1: 0.8820, Valid cmAP5: 0.9262, Valid mAP: 0.8652
+Epoch 48 - Save Best Score: 0.8820 Model
+
+Epoch 49 - Train loss: 0.0013, Train cmAP1: 0.3177, Train cmAP5: 0.3899, Train mAP: 0.2842, Valid loss: 0.0014, Valid cmAP1: 0.8824, Valid cmAP5: 0.9263, Valid mAP: 0.8649
+Epoch 49 - Save Best Score: 0.8824 Model
+
+Epoch 50 - Train loss: 0.0014, Train cmAP1: 0.2964, Train cmAP5: 0.3682, Train mAP: 0.2631, Valid loss: 0.0015, Valid cmAP1: 0.8649, Valid cmAP5: 0.9157, Valid mAP: 0.8373
+Valid loss didn't improve last 1 epochs.
+
+Epoch 51 - Train loss: 0.0014, Train cmAP1: 0.2993, Train cmAP5: 0.3718, Train mAP: 0.2651, Valid loss: 0.0015, Valid cmAP1: 0.8677, Valid cmAP5: 0.9170, Valid mAP: 0.8430
+Valid loss didn't improve last 2 epochs.
+
+Epoch 52 - Train loss: 0.0014, Train cmAP1: 0.2964, Train cmAP5: 0.3699, Train mAP: 0.2656, Valid loss: 0.0015, Valid cmAP1: 0.8732, Valid cmAP5: 0.9200, Valid mAP: 0.8484
+Valid loss didn't improve last 3 epochs.
+
+Epoch 53 - Train loss: 0.0013, Train cmAP1: 0.3033, Train cmAP5: 0.3760, Train mAP: 0.2712, Valid loss: 0.0014, Valid cmAP1: 0.8742, Valid cmAP5: 0.9216, Valid mAP: 0.8545
+Valid loss didn't improve last 4 epochs.
+
+Epoch 54 - Train loss: 0.0013, Train cmAP1: 0.3114, Train cmAP5: 0.3816, Train mAP: 0.2724, Valid loss: 0.0014, Valid cmAP1: 0.8753, Valid cmAP5: 0.9225, Valid mAP: 0.8542
+Valid loss didn't improve last 5 epochs.
+
+Epoch 55 - Train loss: 0.0013, Train cmAP1: 0.3052, Train cmAP5: 0.3788, Train mAP: 0.2761, Valid loss: 0.0014, Valid cmAP1: 0.8793, Valid cmAP5: 0.9246, Valid mAP: 0.8606
+Valid loss didn't improve last 6 epochs.
+
+Epoch 56 - Train loss: 0.0013, Train cmAP1: 0.3210, Train cmAP5: 0.3917, Train mAP: 0.2853, Valid loss: 0.0014, Valid cmAP1: 0.8836, Valid cmAP5: 0.9271, Valid mAP: 0.8649
+Epoch 56 - Save Best Score: 0.8836 Model
+
+Epoch 57 - Train loss: 0.0013, Train cmAP1: 0.3244, Train cmAP5: 0.3954, Train mAP: 0.2885, Valid loss: 0.0014, Valid cmAP1: 0.8852, Valid cmAP5: 0.9281, Valid mAP: 0.8668
+Epoch 57 - Save Best Score: 0.8852 Model
+
+Epoch 58 - Train loss: 0.0012, Train cmAP1: 0.3240, Train cmAP5: 0.3956, Train mAP: 0.2896, Valid loss: 0.0014, Valid cmAP1: 0.8851, Valid cmAP5: 0.9283, Valid mAP: 0.8682
+Valid loss didn't improve last 1 epochs.
+
+Epoch 59 - Train loss: 0.0013, Train cmAP1: 0.3197, Train cmAP5: 0.3916, Train mAP: 0.2842, Valid loss: 0.0014, Valid cmAP1: 0.8858, Valid cmAP5: 0.9286, Valid mAP: 0.8682
+Epoch 59 - Save Best Score: 0.8858 Model
+
+Epoch 60 - Train loss: 0.0014, Train cmAP1: 0.2996, Train cmAP5: 0.3724, Train mAP: 0.2697, Valid loss: 0.0015, Valid cmAP1: 0.8700, Valid cmAP5: 0.9188, Valid mAP: 0.8471
+Valid loss didn't improve last 1 epochs.
+
+Epoch 61 - Train loss: 0.0014, Train cmAP1: 0.3027, Train cmAP5: 0.3753, Train mAP: 0.2673, Valid loss: 0.0015, Valid cmAP1: 0.8725, Valid cmAP5: 0.9205, Valid mAP: 0.8482
+Valid loss didn't improve last 2 epochs.
+
+Epoch 62 - Train loss: 0.0013, Train cmAP1: 0.3070, Train cmAP5: 0.3788, Train mAP: 0.2725, Valid loss: 0.0014, Valid cmAP1: 0.8730, Valid cmAP5: 0.9202, Valid mAP: 0.8452
+Valid loss didn't improve last 3 epochs.
+
+Epoch 63 - Train loss: 0.0013, Train cmAP1: 0.3086, Train cmAP5: 0.3810, Train mAP: 0.2746, Valid loss: 0.0014, Valid cmAP1: 0.8797, Valid cmAP5: 0.9247, Valid mAP: 0.8564
+Valid loss didn't improve last 4 epochs.
+
+Epoch 64 - Train loss: 0.0013, Train cmAP1: 0.3102, Train cmAP5: 0.3820, Train mAP: 0.2764, Valid loss: 0.0014, Valid cmAP1: 0.8823, Valid cmAP5: 0.9259, Valid mAP: 0.8606
+Valid loss didn't improve last 5 epochs.
+
+Epoch 65 - Train loss: 0.0013, Train cmAP1: 0.3178, Train cmAP5: 0.3895, Train mAP: 0.2820, Valid loss: 0.0014, Valid cmAP1: 0.8844, Valid cmAP5: 0.9274, Valid mAP: 0.8631
+Valid loss didn't improve last 6 epochs.
+
+Epoch 66 - Train loss: 0.0013, Train cmAP1: 0.3264, Train cmAP5: 0.3973, Train mAP: 0.2904, Valid loss: 0.0014, Valid cmAP1: 0.8875, Valid cmAP5: 0.9291, Valid mAP: 0.8672
+Epoch 66 - Save Best Score: 0.8875 Model
+
+Epoch 67 - Train loss: 0.0013, Train cmAP1: 0.3252, Train cmAP5: 0.3956, Train mAP: 0.2869, Valid loss: 0.0014, Valid cmAP1: 0.8889, Valid cmAP5: 0.9300, Valid mAP: 0.8703
+Epoch 67 - Save Best Score: 0.8889 Model
+
+Epoch 68 - Train loss: 0.0012, Train cmAP1: 0.3283, Train cmAP5: 0.3990, Train mAP: 0.2933, Valid loss: 0.0014, Valid cmAP1: 0.8892, Valid cmAP5: 0.9304, Valid mAP: 0.8703
+Epoch 68 - Save Best Score: 0.8892 Model
+
+Epoch 69 - Train loss: 0.0012, Train cmAP1: 0.3267, Train cmAP5: 0.3976, Train mAP: 0.2915, Valid loss: 0.0014, Valid cmAP1: 0.8901, Valid cmAP5: 0.9307, Valid mAP: 0.8709
+Epoch 69 - Save Best Score: 0.8901 Model
+
+Epoch 70 - Train loss: 0.0013, Train cmAP1: 0.3060, Train cmAP5: 0.3789, Train mAP: 0.2726, Valid loss: 0.0015, Valid cmAP1: 0.8752, Valid cmAP5: 0.9222, Valid mAP: 0.8499
+Valid loss didn't improve last 1 epochs.
+
+Epoch 71 - Train loss: 0.0013, Train cmAP1: 0.3116, Train cmAP5: 0.3833, Train mAP: 0.2756, Valid loss: 0.0014, Valid cmAP1: 0.8776, Valid cmAP5: 0.9233, Valid mAP: 0.8517
+Valid loss didn't improve last 2 epochs.
+
+Epoch 72 - Train loss: 0.0013, Train cmAP1: 0.3106, Train cmAP5: 0.3819, Train mAP: 0.2749, Valid loss: 0.0014, Valid cmAP1: 0.8787, Valid cmAP5: 0.9242, Valid mAP: 0.8559
+Valid loss didn't improve last 3 epochs.
+
+Epoch 73 - Train loss: 0.0013, Train cmAP1: 0.3200, Train cmAP5: 0.3905, Train mAP: 0.2831, Valid loss: 0.0015, Valid cmAP1: 0.8790, Valid cmAP5: 0.9246, Valid mAP: 0.8581
+Valid loss didn't improve last 4 epochs.
+
+Epoch 74 - Train loss: 0.0013, Train cmAP1: 0.3193, Train cmAP5: 0.3901, Train mAP: 0.2848, Valid loss: 0.0014, Valid cmAP1: 0.8845, Valid cmAP5: 0.9274, Valid mAP: 0.8648
+Valid loss didn't improve last 5 epochs.
+
+Epoch 75 - Train loss: 0.0013, Train cmAP1: 0.3247, Train cmAP5: 0.3956, Train mAP: 0.2889, Valid loss: 0.0014, Valid cmAP1: 0.8869, Valid cmAP5: 0.9291, Valid mAP: 0.8676
+Valid loss didn't improve last 6 epochs.
+
+Epoch 76 - Train loss: 0.0012, Train cmAP1: 0.3230, Train cmAP5: 0.3946, Train mAP: 0.2885, Valid loss: 0.0014, Valid cmAP1: 0.8902, Valid cmAP5: 0.9305, Valid mAP: 0.8697
+Epoch 76 - Save Best Score: 0.8902 Model
+
+Epoch 77 - Train loss: 0.0012, Train cmAP1: 0.3272, Train cmAP5: 0.3982, Train mAP: 0.2930, Valid loss: 0.0014, Valid cmAP1: 0.8908, Valid cmAP5: 0.9313, Valid mAP: 0.8722
+Epoch 77 - Save Best Score: 0.8908 Model
+
+Epoch 78 - Train loss: 0.0012, Train cmAP1: 0.3349, Train cmAP5: 0.4038, Train mAP: 0.2966, Valid loss: 0.0014, Valid cmAP1: 0.8912, Valid cmAP5: 0.9316, Valid mAP: 0.8730
+Epoch 78 - Save Best Score: 0.8912 Model
+
+Epoch 79 - Train loss: 0.0012, Train cmAP1: 0.3330, Train cmAP5: 0.4039, Train mAP: 0.2971, Valid loss: 0.0014, Valid cmAP1: 0.8914, Valid cmAP5: 0.9317, Valid mAP: 0.8734
+Epoch 79 - Save Best Score: 0.8914 Model
+
+Epoch 80 - Train loss: 0.0013, Train cmAP1: 0.3137, Train cmAP5: 0.3855, Train mAP: 0.2764, Valid loss: 0.0015, Valid cmAP1: 0.8754, Valid cmAP5: 0.9221, Valid mAP: 0.8548
+Valid loss didn't improve last 1 epochs.
+
+Epoch 81 - Train loss: 0.0013, Train cmAP1: 0.3186, Train cmAP5: 0.3888, Train mAP: 0.2818, Valid loss: 0.0015, Valid cmAP1: 0.8777, Valid cmAP5: 0.9232, Valid mAP: 0.8556
+Valid loss didn't improve last 2 epochs.
+
+Epoch 82 - Train loss: 0.0013, Train cmAP1: 0.3169, Train cmAP5: 0.3883, Train mAP: 0.2823, Valid loss: 0.0014, Valid cmAP1: 0.8805, Valid cmAP5: 0.9247, Valid mAP: 0.8580
+Valid loss didn't improve last 3 epochs.
+
+Epoch 83 - Train loss: 0.0013, Train cmAP1: 0.3161, Train cmAP5: 0.3878, Train mAP: 0.2812, Valid loss: 0.0014, Valid cmAP1: 0.8870, Valid cmAP5: 0.9286, Valid mAP: 0.8637
+Valid loss didn't improve last 4 epochs.
+
+Epoch 84 - Train loss: 0.0013, Train cmAP1: 0.3240, Train cmAP5: 0.3947, Train mAP: 0.2885, Valid loss: 0.0014, Valid cmAP1: 0.8873, Valid cmAP5: 0.9292, Valid mAP: 0.8661
+Valid loss didn't improve last 5 epochs.
+
+Epoch 85 - Train loss: 0.0013, Train cmAP1: 0.3253, Train cmAP5: 0.3955, Train mAP: 0.2895, Valid loss: 0.0014, Valid cmAP1: 0.8905, Valid cmAP5: 0.9311, Valid mAP: 0.8700
+Valid loss didn't improve last 6 epochs.
+
+Epoch 86 - Train loss: 0.0012, Train cmAP1: 0.3258, Train cmAP5: 0.3979, Train mAP: 0.2917, Valid loss: 0.0014, Valid cmAP1: 0.8930, Valid cmAP5: 0.9322, Valid mAP: 0.8720
+Epoch 86 - Save Best Score: 0.8930 Model
+
+Epoch 87 - Train loss: 0.0012, Train cmAP1: 0.3332, Train cmAP5: 0.4034, Train mAP: 0.2955, Valid loss: 0.0014, Valid cmAP1: 0.8941, Valid cmAP5: 0.9330, Valid mAP: 0.8743
+Epoch 87 - Save Best Score: 0.8941 Model
+
+Epoch 88 - Train loss: 0.0012, Train cmAP1: 0.3303, Train cmAP5: 0.4011, Train mAP: 0.2946, Valid loss: 0.0014, Valid cmAP1: 0.8953, Valid cmAP5: 0.9338, Valid mAP: 0.8759
+Epoch 88 - Save Best Score: 0.8953 Model
+
+Epoch 89 - Train loss: 0.0012, Train cmAP1: 0.3331, Train cmAP5: 0.4042, Train mAP: 0.2974, Valid loss: 0.0014, Valid cmAP1: 0.8956, Valid cmAP5: 0.9339, Valid mAP: 0.8760
+Epoch 89 - Save Best Score: 0.8956 Model
+
+Epoch 90 - Train loss: 0.0013, Train cmAP1: 0.3159, Train cmAP5: 0.3872, Train mAP: 0.2813, Valid loss: 0.0014, Valid cmAP1: 0.8811, Valid cmAP5: 0.9249, Valid mAP: 0.8563
+Valid loss didn't improve last 1 epochs.
+
+Epoch 91 - Train loss: 0.0013, Train cmAP1: 0.3184, Train cmAP5: 0.3890, Train mAP: 0.2807, Valid loss: 0.0014, Valid cmAP1: 0.8835, Valid cmAP5: 0.9265, Valid mAP: 0.8606
+Valid loss didn't improve last 2 epochs.
+
+Epoch 92 - Train loss: 0.0013, Train cmAP1: 0.3214, Train cmAP5: 0.3924, Train mAP: 0.2862, Valid loss: 0.0014, Valid cmAP1: 0.8850, Valid cmAP5: 0.9276, Valid mAP: 0.8616
+Valid loss didn't improve last 3 epochs.
+
+Epoch 93 - Train loss: 0.0013, Train cmAP1: 0.3223, Train cmAP5: 0.3944, Train mAP: 0.2900, Valid loss: 0.0014, Valid cmAP1: 0.8843, Valid cmAP5: 0.9277, Valid mAP: 0.8641
+Valid loss didn't improve last 4 epochs.
+
+Epoch 94 - Train loss: 0.0013, Train cmAP1: 0.3294, Train cmAP5: 0.3986, Train mAP: 0.2895, Valid loss: 0.0014, Valid cmAP1: 0.8883, Valid cmAP5: 0.9296, Valid mAP: 0.8656
+Valid loss didn't improve last 5 epochs.
+
+Epoch 95 - Train loss: 0.0012, Train cmAP1: 0.3204, Train cmAP5: 0.3923, Train mAP: 0.2880, Valid loss: 0.0014, Valid cmAP1: 0.8888, Valid cmAP5: 0.9302, Valid mAP: 0.8701
+Valid loss didn't improve last 6 epochs.
+
+Epoch 96 - Train loss: 0.0012, Train cmAP1: 0.3335, Train cmAP5: 0.4029, Train mAP: 0.2950, Valid loss: 0.0014, Valid cmAP1: 0.8923, Valid cmAP5: 0.9323, Valid mAP: 0.8729
+Valid loss didn't improve last 7 epochs.
+
+Epoch 97 - Train loss: 0.0012, Train cmAP1: 0.3378, Train cmAP5: 0.4072, Train mAP: 0.2997, Valid loss: 0.0014, Valid cmAP1: 0.8944, Valid cmAP5: 0.9334, Valid mAP: 0.8751
+Valid loss didn't improve last 8 epochs.
+
+Epoch 98 - Train loss: 0.0012, Train cmAP1: 0.3355, Train cmAP5: 0.4063, Train mAP: 0.3005, Valid loss: 0.0014, Valid cmAP1: 0.8947, Valid cmAP5: 0.9335, Valid mAP: 0.8759
+Valid loss didn't improve last 9 epochs.
+
+Epoch 99 - Train loss: 0.0012, Train cmAP1: 0.3341, Train cmAP5: 0.4050, Train mAP: 0.2981, Valid loss: 0.0014, Valid cmAP1: 0.8950, Valid cmAP5: 0.9337, Valid mAP: 0.8762
+Valid loss didn't improve last 10 epochs.
+
+Early stop, Training End.
+
+training done!
