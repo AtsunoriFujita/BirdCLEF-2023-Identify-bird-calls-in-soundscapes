@@ -6,6 +6,7 @@ My writeup for this solution can be found on [kaggle](https://www.kaggle.com/com
 - Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, CPU Core=12, CPU Memory=64GB, GPU= 1 x RTX 3090
 ## OS/platform
 - Linux Ubuntu 20.04 LTS
+- python==3.7.13
 
 ## Training
 
